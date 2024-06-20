@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924950874479",
+    "project_id": "push-notification-40152",
+    "storage_bucket": "push-notification-40152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924950874479:android:ff210a4868b08ea260809a",
+        "android_client_info": {
+          "package_name": "com.example.flinnit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD657Nl5uhJQlIkn8nGohjfxaXLUZEmE1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
